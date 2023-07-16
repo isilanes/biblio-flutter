@@ -49,3 +49,9 @@ app.*.map.json
 # Build stuff?
 android/
 linux/
+
+# Deploy stuff:
+ios/
+macos/
+web/
+windows/
