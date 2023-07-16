@@ -1,6 +1,6 @@
-# biblio
+# biblio_flutter
 
-A new Flutter project.
+A new Flutter project to consume Biblio.
 
 ## Getting Started
 
